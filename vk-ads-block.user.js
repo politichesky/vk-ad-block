@@ -4,4 +4,4 @@
 // @include        http://*vk.com/*
 // ==/UserScript==
 
-document.getElementById("left_ads").style.visibility = 'hidden'
+document.getElementById("left_blocks").style.visibility = 'hidden'
